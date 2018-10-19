@@ -6,9 +6,8 @@
 int main(){
 	char* username;
 	username = getenv("USER"); 
-        printf("\nHello %s.\nMind that this is "
-            "not a place to play around."
-            "\nUse help to know m\n", 
+        printf("\nOi %s.\nTá gostando do shell?."
+            "\nDigita help se tiver perdido\n;)\n\n", 
             username); 
 	return 1;
 }
