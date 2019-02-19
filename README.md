@@ -1,2 +1,3 @@
 # mehshell
-pois é né
+Activity concerning the discipline of Operating Systems
+A simple shell simulator
